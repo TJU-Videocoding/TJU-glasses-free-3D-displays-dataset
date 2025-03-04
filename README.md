@@ -12,5 +12,8 @@ There are some samples from the TJU-glasses-free-3D-displays-dataset, which are 
   <img src="images/sampledata.png" alt="sampledata" />
 </p>
 
+# Download
+The TJU-glasses-free-3D-displays-dataset can be downloaded from [BaiduDisk](https://pan.baidu.com/s/1tB4PJ_ZppopvXEY9XEyWkg) with passwork:mtbc.
+
 # Resource
 If you want to get the dataset for further study, please contact zqpan3-c@my.cityu.edu.hk.
