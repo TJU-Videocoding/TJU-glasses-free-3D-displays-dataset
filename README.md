@@ -17,3 +17,6 @@ The TJU-glasses-free-3D-displays-dataset can be downloaded from [BaiduDisk](http
 
 # Resource
 If you want to get the dataset for further study, please contact zqpan3-c@my.cityu.edu.hk.
+
+# Acknowledgement
+We sincerely thank Zexu Wu and the volunteers for their valuable contributions to the development of the TJU autostereoscopic display dataset.
